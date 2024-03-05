@@ -2,18 +2,21 @@
     display: flex;
     justify-content: space-between;
 }
+
 .block-green {
     width: 200px;
     height: 200px;
     background: green;
     border: 3px solid;
 }
+
 .block-yellow {
     width: 200px;
     height: 200px;
     background: yellow;
     border: 3px solid;
 }
+
 .blocks {
     width: 800px;
 }
